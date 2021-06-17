@@ -1,4 +1,6 @@
-## Puppers
+## Puppers and me
+
+## About the app
 
 Raise a healthy pupper by keeping track of his eating, drinking, poo & pee rythm. Always know when it's time to go out to make house breaking easier.
 This is the initial release, there's still a lot to do. 
