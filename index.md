@@ -1,4 +1,5 @@
 ## Puppers and me
+![bond_and_me](https://user-images.githubusercontent.com/5389719/122398084-d404aa00-cf79-11eb-9fea-c907ff684b99.jpg)
 
 ## About the app
 
